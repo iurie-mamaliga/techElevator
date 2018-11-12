@@ -1,0 +1,9 @@
+html {
+  font: 96px Courier;
+}
+#slug_1 {
+  background-color: #ECA008;
+  padding: 50px;
+  margin: 0;
+  border: 3px solid black;
+}

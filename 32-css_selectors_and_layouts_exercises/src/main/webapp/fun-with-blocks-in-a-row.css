@@ -1,0 +1,23 @@
+html {
+  font: 96px Courier;
+}
+#box_0, #box_2, #box_4, #box_6, #box_8{
+  color: white;
+  background-color: #399cc4;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  float: left;
+  text-align: center;
+}
+
+
+#box_1, #box_3, #box_5, #box_7, #box_9 {
+  color: white;
+  background-color: #e52451;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  float: left;
+  text-align: center;
+}
